@@ -1,0 +1,4 @@
+Bundle-Name: crypto
+Bundle-SymbolicName: com.crypto.com
+Bundle-Version: 1.0.0
+Export-Package: com.crypto.com.constants
